@@ -16,7 +16,7 @@ router.get('/', function(req, res) {
 
 app.use(router);
 
-mongoose.connect('mongodb://localhost/chistes', function(err, res) {
+mongoose.connect('mongodb://localhost/chiste', function(err, res) {
   if(err) {
     console.log('ERROR: connecting to Database. ' + err);
   }
