@@ -17,8 +17,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="51">
+              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -250,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529355582376</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="get bodyParser  = require(&quot;body-parser&quot;),">
+      <created>1529355919135</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529355919135</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -300,7 +307,8 @@
     <MESSAGE value="Creación index.js" />
     <MESSAGE value="creacion datos" />
     <MESSAGE value="update name" />
-    <option name="LAST_COMMIT_MESSAGE" value="update name" />
+    <MESSAGE value="get bodyParser  = require(&quot;body-parser&quot;)," />
+    <option name="LAST_COMMIT_MESSAGE" value="get bodyParser  = require(&quot;body-parser&quot;)," />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -333,8 +341,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding />
         </state>
       </provider>
